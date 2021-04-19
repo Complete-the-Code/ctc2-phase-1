@@ -23,6 +23,12 @@ On April 1, 2021, dbrand started selling face masks. You were able to add a "Sur
 Once the face masks started getting delivered after they shipped on April 12, 2021, the robot camo mask also included a card like the following:
 
 ![Card Front](card_front.jpeg)
+
+This means "POSTANDSEARCHONTWITTER" in the Zodiac Killer Cipher. This is the same on every card. 
+On the back card there is another Zodiac Killer Symbol. These can vary and we are looking for these symbols!
+
+If you have a new symbol (The symbols we allready have are shown above, please post the image in the Discord, Twitter or Reddit!
+
 ![Card Back](card_back.jpeg)
 
 (credit [@SpaceWolfPlays](https://twitter.com/spacewolfplays))
