@@ -9,9 +9,11 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 ### Known characters: `CEEDDORTT`
 
 ![Status](CTC2.png)
+
 (credit @albedo)
 
 ![Known Only](Known.png)
+
 (credit @GlitterButts)
 
 ## What is this?
@@ -22,6 +24,7 @@ Once the face masks started getting delivered after they shipped on April 12, 20
 
 ![Card Front](card_front.jpeg)
 ![Card Back](card_back.jpeg)
+
 (credit [@SpaceWolfPlays](https://twitter.com/spacewolfplays))
 
 The front of the card translates to `POSTANDFINDONTWITTER` if decrypted with the Zodiac Z340 cipher, which was cracked in December of 2020 (see [here](http://zodiackillersite.com/viewtopic.php?f=23&t=5079) for more information).
