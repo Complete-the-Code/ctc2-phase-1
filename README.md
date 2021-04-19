@@ -2,7 +2,7 @@
 
 This repo shows the current status of the symbols found for the dbrand Complete the Code 2 challenge.
 
-[Join the madness and crack the code](https://discord.gg/dbrand)
+[Join the madness and complete the code](https://discord.gg/dbrand)
 
 
 ## Current status
