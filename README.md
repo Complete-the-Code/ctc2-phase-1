@@ -20,7 +20,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 
 On April 1, 2021, dbrand started selling face masks. You were able to add a "Surprise gift" to your purchase for some extra cash, with no hint as to what it was.
 
-Once the face masks started getting delivered after they shipped on April 12, 2021, the "Surprise gift" turned out to be a card like the following:
+Once the face masks started getting delivered after they shipped on April 12, 2021, the "Surprise gift" turned out to be a robot camo mask, and a card like the following:
 
 ![Card Front](card_front.jpeg)
 ![Card Back](card_back.jpeg)
