@@ -6,7 +6,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 
 
 ## Current status
-### Known characters: `CEEDDORTT`
+### Known characters: `CEEDDOORTT`
 
 ![Status](CTC2.png)
 
