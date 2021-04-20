@@ -10,7 +10,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 
 ![Status](CTC2.png)
 
-(credit @albedo)
+(credit [@albedo/tooboredtocode](https://github.com/tooboredtocode))
 
 ![Known Only](Known.png)
 
