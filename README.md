@@ -4,8 +4,9 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
+## Current solve status
+Currently unsolved. [Awaiting for more symbols](https://twitter.com/dbrand/status/1384317000890130433)
 
-## Current status
 ### Known characters: `CEEDDOORTT`
 
 ![Status](CTC2.png)
@@ -14,7 +15,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 
 ![Known Only](Known.png)
 
-(credit @GlitterButts)
+(credit [@GlitterButts](https://github.com/glitterbutts))
 
 ## What is this?
 
@@ -36,7 +37,3 @@ If you have a new symbol (The symbols we allready have are shown above, please p
 The front of the card translates to `POSTANDFINDONTWITTER` if decrypted with the Zodiac Z340 cipher, which was cracked in December of 2020 (see [here](http://zodiackillersite.com/viewtopic.php?f=23&t=5079) for more information).
 
 Since then, a bunch of dipshits on Discord have been trying to figure out what exactly the backs of the cards are supposed to mean.
-
-## Solve status
-
-Currently unsolved. Awaiting more symbols
