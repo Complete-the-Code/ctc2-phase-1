@@ -5,7 +5,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
 ## Current solve status
-Currently unsolved. [Awaiting for more symbols](https://twitter.com/dbrand/status/1384317000890130433)
+Currently unsolved. Awaiting more symbols since robot 069 [confirmed there are more](https://twitter.com/dbrand/status/1384317000890130433) on Discord.
 
 ### Known characters: `CEEDDOORTT`
 
