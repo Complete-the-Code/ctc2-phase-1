@@ -5,9 +5,9 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
 ## Current solve status
-Currently unsolved. Awaiting for more symbols since robot 069 confirmed that [there are more](https://twitter.com/dbrand/status/1384317000890130433) on Twitter. 
+Currently unsolved. Awaiting for more symbols since robot 069 confirmed that [there are more](https://twitter.com/dbrand/status/1384317000890130433) on Twitter.
 
-### Known characters: `CEEDDHOORTTW`
+### Known characters: `CEEDDHOORTTWS`
 
 ![Status](CTC2.png)
 
@@ -25,7 +25,7 @@ Once the face masks started getting delivered after they shipped on April 12, 20
 
 ![Card Front](card_front.jpeg)
 
-Using the Zodiac Z340 Cipher this decrypts to `POSTANDSEARCHONTWITTER`. This is the same on every card. 
+Using the Zodiac Z340 Cipher this decrypts to `POSTANDSEARCHONTWITTER`. This is the same on every card.
 On the back card there is a singular Zodiac Killer Symbol. These can vary and we are looking for such symbols!
 
 ![Card Back](card_back.jpeg)
