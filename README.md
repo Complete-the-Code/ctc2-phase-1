@@ -7,7 +7,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 ## Current solve status
 Currently unsolved. Awaiting for more symbols since robot 069 confirmed that [there are more](https://twitter.com/dbrand/status/1384317000890130433) on Twitter.
 
-### Known characters: `ACDDEEHOORSTTW`
+### Known characters: `ACDDEEEHOORSTTW`
 
 ![Status](CTC2.png)
 
