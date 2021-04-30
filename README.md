@@ -5,7 +5,11 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
 ## Current solve status
-Currently unsolved. Awaiting for more symbols since robot 069 confirmed that [there are more](https://twitter.com/dbrand/status/1384317000890130433) on Twitter.
+Still currently unsolved. 
+
+As of 30th April 2021, 069 has "confirmed" that we are still missing letters. You can see the message with the reaction [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below.
+
+![Missing confirmation](stillMissing.png)
 
 ### Known characters: `ACDDEEEHOORSTTTW`
 
