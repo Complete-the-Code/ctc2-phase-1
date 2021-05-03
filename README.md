@@ -11,7 +11,7 @@ As of April 30, 2021, 069 has "confirmed" that we are still missing letters. You
 
 ![Missing confirmation](stillMissing.png)
 
-### Known characters: `ACDDEEEHOOORSTTTW`
+### Known characters: `ACDDEEEEHOOORSTTTW`
 
 ![Status](CTC2.png)
 
