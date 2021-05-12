@@ -15,6 +15,7 @@ This file show the symbols found for the dbrand Complete the Code 2 challenge.
 | H | <img src="H-0-ph.png" width="425"/> |
 | M | <img src="M-0.png" width="425"/> |
 | O | <img src="O-0.png" width="425"/> <img src="O-1.png" width="425"/> <img src="O-2.png" width="425"/> |
+| P | <img src="P-0.png" width="425"/> |
 | R | <img src="R-0.png" width="425"/> |
 | S | <img src="S-0.png" width="425"/> |
 | T | <img src="T-0.png" width="425"/> <img src="T-1.png" width="425"/> <img src="T-2.png" width="425"/> |
