@@ -7,7 +7,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 ## Current solve status
 Still currently unsolved. Cards that have been collected so far can be seen [here](/acquiredSymbols).
 
-As of May 17, 2021, dbrand has "confirmed" that a total of 23 cards have been sighted (by them), you can see the message here [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below. Of those 23 we have only sighted 21.
+As of May 17, 2021, dbrand has "confirmed" that a total of 23 cards have been sighted (by them), you can see the message [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below. Of those 23 we have only sighted/acknowledged 21.
 
 ![Missing confirmation](message.png)
 
