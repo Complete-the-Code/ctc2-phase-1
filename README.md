@@ -7,11 +7,11 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 ## Current solve status
 Still currently unsolved. Cards that have been collected so far can be seen [here](/acquiredSymbols).
 
-As of April 30, 2021, 069 has "confirmed" that we are still missing letters. You can see the message with the reaction [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below.
+As of May 17, 2021, dbrand has "confirmed" we have collected all cards, you can see the message here [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below.
 
-![Missing confirmation](stillMissing.png)
+![Missing confirmation](message.png)
 
-### Known characters: `ACDDEEEEHMOOOPRSTTTW`
+### Known characters: `ACDDEEEEHLMOOOPRSTTTW`
 
 ![Status](CTC2.png)
 
