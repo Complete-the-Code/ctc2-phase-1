@@ -1,6 +1,6 @@
 # Acquired symbols
 
-This file show the symbols found for the dbrand Complete the Code 2 challenge.
+This document shows the symbols found for the dbrand Complete the Code 2 challenge.
 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
