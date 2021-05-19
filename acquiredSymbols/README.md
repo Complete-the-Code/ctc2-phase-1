@@ -4,7 +4,7 @@ This document shows the symbols found for the dbrand Complete the Code 2 challen
 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
-**Note some cards have placeholders in place until a suitable image is found**
+**Note some cards might have placeholders in place until a suitable image is found**
 
 | Decoded Letter | Card |
 | :---: | :---: |
@@ -12,7 +12,7 @@ This document shows the symbols found for the dbrand Complete the Code 2 challen
 | C | <img src="C-0.png" width="425"/> |
 | D | <img src="D-0.png" width="425"/> <img src="D-1.png" width="425"/> | 
 | E | <img src="E-0.png" width="425"/> <img src="E-1.png" width="425"/> <img src="E-2.png" width="425"/> <img src="E-3.png" width="425"/> |
-| H | <img src="H-0-ph.png" width="425"/> |
+| H | <img src="H-0.png" width="425"/> |
 | L | <img src="L-0.png" width="425"/> |
 | M | <img src="M-0.png" width="425"/> |
 | O | <img src="O-0.png" width="425"/> <img src="O-1.png" width="425"/> <img src="O-2.png" width="425"/> |
