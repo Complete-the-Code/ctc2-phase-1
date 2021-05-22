@@ -9,8 +9,7 @@ Still currently unsolved. Cards that have been collected so far can be seen [her
 
 As of May 17, 2021, dbrand has "confirmed" that a total of 23 cards have been acknowledged, you can see the message [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below. 
 
-Given the clue `symbols < cards` we've concluded that we are looking for 3 words made up of 21 characters ~(including two spaces)~ and two other shits. 
-Right, 069 is a bitch, I'm confused, we have no clear reasoning what the two extra characters might be.
+Given the clue `symbols < cards` we've concluded that we are looking for 3 words made up of 21 characters and two other unknowns. While we initially assumed those to be spaces, recent messages led us to conclude otherwise.
 
 ![Missing confirmation](message.png)
 
