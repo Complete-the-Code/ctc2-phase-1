@@ -7,7 +7,7 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 ## Current solve status
 Still currently unsolved. Cards that have been collected so far can be seen [here](/acquiredSymbols).
 
-As of May 17, 2021, dbrand has "confirmed" that a total of 23 cards have been acknowledged, you can see the message [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below. 
+As of May 17, 2021, dbrand has "confirmed" that a total of 23 cards have been acknowledged, you can see the message [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below. Additionally they have comfirmed that we have everything needed, to solve this challange.
 
 Given the clue `symbols < cards` we've concluded that we are looking for 3 words made up of 21 characters and two other unknowns. While we initially assumed those to be spaces, recent messages led us to conclude otherwise.
 
