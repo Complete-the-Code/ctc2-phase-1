@@ -11,7 +11,7 @@ As of May 17, 2021, dbrand has "confirmed" that all 23 cards have been acquired,
 Additionally they have confirmed that we have everything needed, to solve this challange.
 
 Given the clue `symbols < cards`, we've concluded that we are looking for a phrase made up of 21 characters and two other unknowns.
-We believe these two unknowns are duplicate symbols. Using our massive brains, we've deduced that the two duplicate characters can be `C` `D` `H` or `M`.
+We believe these two unknowns are duplicate symbols. Using our brains, we've deduced that the two duplicate characters can be `C` `D` `H` or `M`.
 robot069 has "confirmed" this theory as of May 25, 2021.
 
 ![Confirmation](message.png)
