@@ -7,13 +7,14 @@ This repo shows the current status of the symbols found for the dbrand Complete 
 ## Current solve status
 Still currently unsolved. Cards that have been collected so far can be seen [here](/acquiredSymbols).
 
-As of May 17, 2021, dbrand has "confirmed" that a total of 23 cards have been acknowledged, you can see the message [here](https://discord.com/channels/520021794380447745/832309320934621234/837808784562716763) (If you're in the Discord), or below.
+As of May 17, 2021, dbrand has "confirmed" that all 23 cards have been acquired, you can see the message in the pinned section of the CTC2 discord channel.
 Additionally they have confirmed that we have everything needed, to solve this challange.
 
-Given the clue `symbols < cards` we've concluded that we are looking for 3 words made up of 21 characters and two other unknowns.
-While we initially assumed those to be spaces, recent messages led us to conclude otherwise.
+Given the clue `symbols < cards` we've concluded that we are looking a phrase made up of 21 characters and two other unknowns.
+We believe these two unknows to be duplicate symbols, which in this case applies to the characters `C` `D` `H` and `M`.
+robot069 has "confirmed" this theory as of May 25, 2021.
 
-![Missing confirmation](message.png)
+![Confirmation](message.png)
 
 ### Known characters: `ACDDEEEEHLMOOOPRSTTTW`
 
