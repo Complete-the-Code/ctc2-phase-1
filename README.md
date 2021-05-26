@@ -10,8 +10,9 @@ Still currently unsolved. Cards that have been collected so far can be seen [her
 As of May 17, 2021, dbrand has "confirmed" that all 23 cards have been acquired, you can see the message in the pinned section of the CTC2 discord channel or by clicking [here](https://discord.com/channels/520021794380447745/832309320934621234/843974368287653939).
 Additionally they have confirmed that we have everything needed, to solve this challange.
 
-Thanks to @liatschulz in the Discord. They have managed to mash the character list to find the url: https://completethecodetwo.cards/
-We have confirmed that this is indeed a dbrand created website using WHOIS records. dbrand has since confirmed that Phase I is complete. We are now moving onto Phase II. To see this message click [here](https://discord.com/channels/520021794380447745/832309320934621234/847171349113471046).
+Thanks to @liatschulz in the Discord, they have managed to mash the character list to find the url https://completethecodetwo.cards/
+
+We have confirmed that this is indeed a dbrand created website using WHOIS records. dbrand has since confirmed that Phase I has been completed and that Phase II has now been started. To see this message click [here](https://discord.com/channels/520021794380447745/832309320934621234/847171349113471046).
 
 ![Confirmation](message.png)
 
