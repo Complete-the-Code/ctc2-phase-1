@@ -1,11 +1,11 @@
-# symbol-status
+# CTC2 phase 1
 
-This repo shows the current status of the symbols found for the dbrand Complete the Code 2 challenge.
+This repo shows the current status of the symbols found for phase 1 of the dbrand Complete the Code 2 challenge.
 
 [Join the madness and complete the code](https://discord.gg/dbrand)
 
 ## Current solve status
-Still currently unsolved. Cards that have been collected so far can be seen [here](/acquiredSymbols).
+**Solved**
 
 As of May 17, 2021, dbrand has "confirmed" that all 23 cards have been acquired, you can see the message in the pinned section of the CTC2 discord channel or by clicking [here](https://discord.com/channels/520021794380447745/832309320934621234/843974368287653939).
 Additionally they have confirmed that we have everything needed, to solve this challange.
@@ -42,5 +42,7 @@ On the front of the card there is a singular Zodiac Killer Symbol. These can var
 We have a bunch of dipshits on Discord that have been trying to figure out what exactly the backs of the cards are supposed to mean.
 
 If you have a symbol please post the image in the [Discord](https://discord.gg/dbrand) or [Subreddit](https://www.reddit.com/r/dbrand)!, additionally you can post it on Twitter using [#CTC2](https://twitter.com/hashtag/CTC2).
+
+Cards that have been collected so far can be seen [here](/acquiredSymbols).
 
 More infomation on the Zodiac Killer Cipher can be seen [here](http://zodiackillersite.com/viewtopic.php?f=23&t=5079) and [here](https://www.dcode.fr/zodiac-killer-cipher).
